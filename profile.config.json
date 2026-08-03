@@ -1,67 +1,65 @@
 {
   "$schema": "./profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Rizki Maulana",
+    "username": "ulmauull",
+    "headline": "Fullstack Developer • Founder @ Nobelux",
+    "affiliation": "PT Nobelux Digital Future",
+    "location": "Indonesia",
+    "status": "Building Enterprise Software",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "Full Stack Developer with experience building scalable web applications, ERP systems, HRIS platforms, POS solutions, and AI-powered automation.",
+      "Passionate about creating clean, high-performance software with modern technologies while delivering practical solutions for businesses."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Full Stack Development",
+    "direction": "Enterprise Software Engineering",
+    "themes": "Web Apps • AI • System Design",
+    "narrative": "I enjoy designing and developing scalable applications, integrating AI into business workflows, and building systems that improve productivity and user experience."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
-    },
-    {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
-    },
-    {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Enterprise Application",
+      "description": "Building ERP, HRIS, POS, and business management platforms"
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
-      "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "name": "Luthen HRIS",
+      "url": "https://github.com/ulmauull",
+      "homepage": "https://luthen.nobelux.co.id",
+      "focus": "Human Resource Information System",
+      "summary": "A modern HRIS platform featuring attendance tracking, payroll management, GPS verification, face recognition, and employee management.",
+      "heroLabel": "HR Platform"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
-      "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "name": "Selin POS",
+      "url": "https://github.com/ulmauull",
+      "homepage": "https://selin.nobelux.co.id",
+      "focus": "Pos App",
+      "summary": "Providing custom software development, AI automation, web applications, mobile applications, ERP systems, and UI/UX solutions.",
+      "heroLabel": "Software Agency"
     }
   ],
   "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
+    "PHP",
+    "Javascript",
+    "React",
+    "Node.js",
+    "MySQL",
+    "Supabase",
+    "Bootstrap",
+    "Tailwind CSS",
+    "Git",
+    "Cloudflare R2",
+    "REST API"
   ],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "ulmauull",
+      "url": "https://github.com/ulmauull",
       "logo": "github",
       "color": "0B1220"
     }
@@ -73,5 +71,5 @@
   "appearance": {
     "palette": "signal"
   },
-  "footer": "Building thoughtful systems and sharing what works."
+  "footer": "Building modern software that empowers businesses through technology."
 }
