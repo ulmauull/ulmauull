@@ -32,7 +32,7 @@ Passionate about creating clean, high-performance software with modern technolog
 | [**Luthen HRIS**](https://luthen.nobelux.co.id) | Human Resource Information System for attendance, payroll, leave management, employee records, GPS verification, face recognition, and workforce management. | [**Link Admin**](https://luthen.nobelux.co.id/admin) |
 | [**Selin POS**](https://selin.nobelux.co.id) | Point of Sale application for sales, inventory management, product catalog, customer management, and business reporting. | [**Link Admin**](https://selin.nobelux.co.id) |
 | [**Unké Naru**](https://unkenaru.com) | Modern perfume e-commerce platform featuring product catalog, secure online shopping, order management, and responsive customer experience. | [**Visit Website**](https://unkenaru.com) |
-| **Nord & Smith** | Corporate profile website for a media buying agency, showcasing digital advertising services, company profile, portfolios, and marketing solutions. | [**Visit Website**](https://https://nordandsmith.com) |
+| **Nord & Smith** | Corporate profile website for a media buying agency, showcasing digital advertising services, company profile, portfolios, and marketing solutions. | [**Visit Website**](https://nordandsmith.com) |
 | **JARIS & K** | Corporate profile website for an out-of-home (OOH) advertising company, highlighting advertising services, company information, and campaign portfolio. | [**Visit Website**](https://jarisnk.com) |
 
 ## Research Direction
